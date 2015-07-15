@@ -23,6 +23,7 @@ angular.module('starter', [
     api_key: 'My_API_KEY',
     // The GCM project ID (project number) from your Google Developer Console (un-comment if used)
     gcm_id: 'My_GCM_ID'
+    dev_push: false
   });
 }])
 
